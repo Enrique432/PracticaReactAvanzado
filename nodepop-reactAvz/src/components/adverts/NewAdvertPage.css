@@ -1,0 +1,13 @@
+*{box-sizing:border-box;}
+
+form{	
+	padding:10px;	
+	margin:auto;
+	
+}
+
+form label{
+	width:72px;	
+	display:inline-block;
+}
+

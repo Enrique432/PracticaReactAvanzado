@@ -1,0 +1,5 @@
+.paper {
+    display: flex;
+    justify-content: space-around;
+    min-width: 700px;
+}
